@@ -17,6 +17,17 @@ body {
     color: #333333!important;
 }
 /* styles changed for accessibility --- end */
+
+.title-sentence {
+    font-size: 20px;
+}
+
+#sentence {
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
